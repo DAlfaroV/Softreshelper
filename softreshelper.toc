@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: SoftRes Helper
+## Notes: View SoftRes in game
+## Author: DAlfaroV
+## Version: 1.0
+## DefaultState: Enabled
+## SavedVariables: SoftResDB
+## License: MIT
+
+SoftResHelper.lua
