@@ -284,8 +284,6 @@ loader:SetScript("OnEvent", function()
                     tooltip:AddLine("  |cFF00FF7F" .. name .. "|r")
                 end
             end
-        else
-            tooltip:AddLine("|cFF888888[SoftRes] No res|r")
         end
 
         tooltip:Show()
