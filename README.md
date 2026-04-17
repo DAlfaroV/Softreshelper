@@ -2,6 +2,11 @@
 WoW wotlk Addon used to display items soft reserved(via CSV from https://softres.it ) in game.
 
 -------------------------
+## Download
+
+- Click on Code -> Download Zip
+- Extract and make sure that the name of the folder is Softreshelper
+-------------------------
 ## Usage
 
 - Use command /srs to display window.
